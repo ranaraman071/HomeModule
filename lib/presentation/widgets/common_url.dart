@@ -1,0 +1,3 @@
+class CommonUrl{
+  static String googleMap="https://www.google.com/maps/place/Central+Computers,+837+Howard+St,+San+Francisco,+CA+94103/data=!4m2!3m1!1s0x808580873ae5b6b7:0x30d4e011c745ab3e?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBjI1LjMuMRgAINeCAypjLDk0MjIzMjk5LDk0MjE2NDEzLDk0MjEyNDk2LDk0MjA3Mzk0LDk0MjA3NTA2LDk0MjA4NTA2LDk0MjE3NTIzLDk0MjE4NjUzLDk0MjI5ODM5LDQ3MDg0MzkzLDk0MjEzMjAwQgJVUw%3D%3D";
+}
