@@ -128,7 +128,7 @@ class _SliderBlocUIState extends State<SliderBlocUI> {
                             crossAxisAlignment: CrossAxisAlignment.center,
                             mainAxisAlignment: MainAxisAlignment.start,
                             children: [
-                              const Image(image: AssetImage(AssetsPics.similar), height: 12),
+                              // const Image(image: AssetImage(AssetsPics.similar), height: 12),
                               const SizedBox(width: 15),
                               Expanded(child:
                                   BlocBuilder<ValueBloc, ValueState>(builder: (context, state1) {
